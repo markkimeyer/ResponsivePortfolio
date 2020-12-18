@@ -20,21 +20,24 @@ p {
     font-size: 18px;
 }
 
+.aboutrow {
+    background-color: white;
+}
 /* h1 {
     background-color: #937782;
 } */
 
 .container {
     padding: 20px;
-    background-color:white;
 }
 
 .footer {
-    background-color:purple
+    background-color:#b7cfcf;
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    color: lavender;
+    color: rgb(25, 43, 43);
     text-align: center;
+    font-size: 18px;
 }
