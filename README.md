@@ -7,7 +7,7 @@ The About Me page has a responsive image and several paragraphs of text. It uses
 
 The Gallery page uses bootstrap card components which have a responsive layout when the page size is reduced. These cards have placeholder images that will be replaced by future completed projects. I really liked the card component instead of just a placeholder image because it provides addiitonal formatting for a title and description of each image.  
 
-The Contact page uses a bootstrap form with text fields for Name and Message and an Email field which recognizes email addresses. There is also a submit button. Additionally, the background of the form container is intenionally missing to allow a seamless background image. Please note, this form is not yet functional.
+The Contact page uses a bootstrap form with text fields for Name and Message and an Email field which recognizes email addresses. There is also a submit button. Additionally, the background of the form container is intenionally missing to allow a seamless background image. The grid system allows for "invisible" columns on either side of the form in order to acheive a centered format. Please note, this form is not yet functional.
 
 The project is live at: https://markkimeyer.github.io/ResponsivePortfolio/
 
